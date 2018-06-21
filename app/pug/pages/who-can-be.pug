@@ -1,0 +1,46 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.who_can_i_be
+        .container-fluid
+            .main-wrapp
+                h2.web-title who can i be?
+                .main-content
+                    .card-menu
+                        .row
+                            include ../templates/hot-card.pug
+                                .col-md-2
+                                    .accordeon
+                                        .job-title-name all
+                                            span.fa.fa-caret-down
+                                        .job-content
+                                            a(href='')
+                                                .job-pro all
+                                            a(href='')
+                                                .job-pro web developer
+                                            a(href='')
+                                                .job-pro ua/ux designer
+                                            a(href='')
+                                                .job-pro mobile app
+                                            a(href='')
+                                                .job-pro iOS
+                                            a(href='')
+                                                .job-pro JavaScript
+
+                                .col-md-7
+                                    each val in hot_card
+                                        a.hot-card-link(href='hot-job.html')
+                                            .hot-card
+                                                p.hot-card-name=val.hot_card_name
+                                                p.hot-card-subname=val.hot_card_subname
+                                                p.hot-card-text=val.hot_card_text
+                                .col-md-3
+                                    each val in hot_card_right
+                                        a.hot-card-link(href='hot-job.html')
+                                            .hot-card
+                                                p.hot-card-name=val.hot_card_name_right
+                                                p.hot-card-subname=val.hot_card_subname_right
+                                                p.hot-card-text=val.hot_card_text_right
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug
+

@@ -1,0 +1,206 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .main-wrapp-page
+                .main-left-text.wow.slideInLeft
+                    p.main-lg-text
+                        | mobile
+                        br
+                        |  development
+                    p.web-subtitle.wow.slideInLeft
+                        | Our well-defined development processes
+                        br
+                        | guarantee you -
+                        span.green-subtext  speed
+                        |  and
+                        span.green-subtext  quality
+                .main-right-text
+                    .main-title-item
+                        p.main-lg-number.pluse.count  150
+                        p.main-md-number
+                            | projects
+                            br
+                            | delivered
+    section.page-wrapp
+        .container-fluid
+            h2.web-title mobile development
+            .main-content
+                .web-page
+                    .web-left-page
+                        p.mob-text
+                            |  Over half of a million apps are added to the App Store every year, and about 1,500 to Google Play every day, but only the strongest survive and thrive. We create native iOS and Android apps, cross-platform applications, and mobile enterprise apps, allowing you to stand out against the crowd and
+                            span   giving you a competitive edge
+                            | .
+                            br
+                            br
+                            |  UX / UI is our native language. We understand that creating a native mobile app is a large investment for a company, in contrast to a cheap, responsive web solution; however, the benefits in user experience (UX) of creating an application that is
+                            span   custom-made
+                            |  for users’ mobile phones is
+                            span  boundless
+                            |.
+                    .web-right-page
+                        .mob-priority
+                            ul
+                                li
+                                    p.mob-priority-text Custom mobile app development
+                        .mob-priority
+                            ul
+                                li
+                                    p.mob-priority-text UI/UX design
+                        .mob-priority
+                            ul
+                                li
+                                    p.mob-priority-text Native iOS and Android applications
+                        .mob-priority
+                            ul
+                                li
+                                    p.mob-priority-text Cross-platform mobile apps
+                        .mob-priority
+                            ul
+                                li
+                                    p.mob-priority-text Enterprise mobile app development
+    section.page-wrapp-grey
+        .container
+            h2.web-title technologies we use
+            .mob-icon
+                .mob-icon-item
+                    img.mob-icon-img(src='../img/ios.svg', alt='')
+                    p.mob-icon-text iOS
+                .mob-icon-item
+                    img.mob-icon-img(src='../img/android.svg', alt='')
+                    p.mob-icon-text Android
+                .mob-icon-item
+                    img.mob-icon-img(src='../img/react.svg', alt='')
+                    p.mob-icon-text React
+
+    section.page-wrapp
+        .container-fluid
+            h2.web-title our works
+            .main-content
+                .work
+                    .work-card.arenda-card
+                        p.work-title arenda auto
+                        p.work-text
+                            | Development of an Android weather application for IBM and Weather.com, in cooperation with SoftServe, another software development company. This application has an extremely powerful UI, a shiny look, and complicated UI logics. You can track anything weather-related in this application, including the movement of cyclones and anticyclones, weather forecasts, etc.
+                        .work-line
+                        .work-footer
+                            div
+                                p.work-descript
+                                    span Platform:
+                                    |  WEB
+                                p.work-descript
+                                    span Industry:
+                                    |  Media
+                            div
+                                a.work-btn(href='') Explore more
+                    .work-img-one
+                        img(src='../img/car-img.png', alt='')
+
+                .work
+                    .work-img-one
+                        img(src='../img/phone-2.png', alt='')
+                    .work-card.arenda-card
+                        p.work-title arenda auto
+                        p.work-text
+                            | The platform allows customers to order and order cars with
+                            | a driver, without drivers, as well as buses and cars for weddings.
+                            | The project was created and developed within a short period of
+                            | time from August 2017. The site has a control panel, convenient
+                            | navigation and the ability to select the desired vehicles.
+                        .work-line
+                        .work-footer
+                            div
+                                p.work-descript
+                                    span Platform:
+                                    |  WEB
+                                p.work-descript
+                                    span Industry:
+                                    |  Media
+                            div
+                                a.work-btn(href='') Explore more
+
+                .work
+                    .work-card.arenda-card
+                        p.work-title arenda auto
+                        p.work-text
+                            | The platform allows customers to order and order cars with
+                            | a driver, without drivers, as well as buses and cars for weddings.
+                            | The project was created and developed within a short period of
+                            | time from August 2017. The site has a control panel, convenient
+                            | navigation and the ability to select the desired vehicles.
+                        .work-line
+                        .work-footer
+                            div
+                                p.work-descript
+                                    span Platform:
+                                    |  WEB
+                                p.work-descript
+                                    span Industry:
+                                    |  Media
+                            div
+                                a.work-btn(href='') Explore more
+                    .work-img-one
+                        img(src='../img/test.png', alt='')
+    section.page-wrapp-grey
+        .container
+            h2.web-title process
+            .row
+                .col-sm-4
+                    .dev-img
+                        span.line-lg.line-lg-vert-left
+                        img(src='img/meet.png', alt='')
+                        p.dev-title
+                            | Meeting
+                .col-sm-4
+                    .dev-img
+                        span.line-lg
+                        img(src='img/specific.png', alt='')
+                        p.dev-title
+                            | Specifications
+                .col-sm-4
+                    .dev-img
+                        span.line-sm-right
+                        img(src='img/esti.png', alt='')
+                        p.dev-title
+                            | Estimate
+                .col-sm-4
+                    .dev-img
+                        span.line-lg.line-sm-left
+                        img(src='img/dev.png', alt='')
+                        p.dev-title
+                            | Development
+                .col-sm-4
+                    .dev-img
+                        span.line-lg
+                        img(src='img/ui.png', alt='')
+                        p.dev-title
+                            | UI/UX
+                .col-sm-4
+                    .dev-img
+                        span.line-sm-right.line-lg-vert
+                        img(src='img/pro.png', alt='')
+                        p.dev-title
+                            | Project plan
+                .col-sm-4
+                    .dev-img
+                        span.line-lg.line-sm-left
+                        img(src='img/qa.png', alt='')
+                        p.dev-title
+                            | QA
+                .col-sm-4
+                    .dev-img
+                        span.line-lg
+                        img(src='img/deli.png', alt='')
+                        p.dev-title
+                            | Delivering
+                .col-sm-4
+                    .dev-img
+                        img(src='img/supp.png', alt='')
+                        p.dev-title
+                            | Support
+
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

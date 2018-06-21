@@ -1,0 +1,40 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .java-main-block
+                img.java-logo(src='img/java-logo.png', alt='')
+                p.java-title
+                    | Java is a general-purpose, object-oriented programming language.
+                    br
+                    | It’s designed to be a  “write once, run anywhere” (WORA) language,
+                    br
+                    |   which means that its compiled code can run on any platform
+                    br
+                    |  that supports Java.
+    section.page-wrapp
+        .container-fluid
+            h2.web-title Java Development
+            .main-content
+                .pade-column
+                    .page-column-left
+                        p.page-column-text
+                            | Java is a general-purpose, object-oriented programming language. It’s designed to be a "write once, run anywhere" (WORA) language, which means that its compiled code can run on any platform that supports Java. Java is currently one of the most popular programming languages in the world, with an estimated 9 million developers, and is particularly used for client-server web applications. Android is also particularly dependent on Java-related technologies.
+                    .page-column-right
+                        p.page-column-text
+                            | We use industry-proven methods to provide Java development for web apps, games, and other applications that require cross-platform support.
+
+    section.page-wrapp.grey-bg
+        .container
+            h2.web-title Why Java
+            .row
+                include ../templates/java-page.pug
+                    each item in java_page
+                        .col-md-6
+                            .j-block
+                                p.j-title-text=item.j_title
+                                p.j-subtitle-text !{item.j_subtitle}
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

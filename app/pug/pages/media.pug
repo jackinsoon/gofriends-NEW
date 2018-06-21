@@ -1,0 +1,49 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .main-wrapp-page
+                .main-left-text
+                    p.industry-big-text
+                        | Media
+                    p.industry-big-subtext
+                        | In the modern age, IT and media are inseparable.
+                        br
+                        | Journalists are now able to have live video feeds
+                        br
+                        | and on-location with a simple smartphone app.
+    section.industry-page
+        .industry-page-wrapp
+            h2.industry-title Be heard.
+            .industry-main
+                p.industry-text
+                    | Media has gone from a manufacturing industry (newspaper) and an electronics industry (radio and early TV) to an IT industry seemingly overnight; in the modern age, IT and media are inseparable. Journalists are now able to have live video feeds and be on-location with a simple smartphone app; however, without a proper software solution, even this powerful tool turns into nothing more than a Facebook Live stream or live streaming on YouTube. If a media company doesn’t truly stand out and innovate, it will get lost in the static of all of the different media options available online.
+                    br
+                    br
+                    |   Don’t get capsized in the sea of YouTube channels, Facebook posts, and TV shows available. We want to take you to the next level and help
+                    span  you reach your audience
+                    | . Be heard.
+                    br
+                    br
+                    |  We at inVeritaSoft confront the challenges of the modern media industry with real software solutions that integrate the latest technologies and techniques, allowing you to reach your audience faster with relevant content. We already have experience creating high-level solutions for major media providers in Eastern Europe, and we are ready to serve you with that same level of excellence. We offer:
+
+                .industry-priority
+                    .industry-item
+                        p.industry-item-name Web applications and online media platforms
+                        p.industry-item-name Digital media apps
+                        p.industry-item-name Mobile and Web TV solutions
+            img.industry-img(src='img/media-test-img.png', alt='earphones')
+        .industry-link
+            a(href='')
+                button.industry-btn
+                    span.fas.fa-long-arrow-alt-left
+                    |Prev
+            a(href='')
+                button.industry-btn
+                    |Next
+                    span.fas.fa-long-arrow-alt-right
+
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

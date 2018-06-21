@@ -1,0 +1,26 @@
+//color
+$black-color: #000;
+$white-color:#fff;
+$main-color:#02a383;
+$grey-color:#f8f8f8;
+$grafit-color:#2f363b;
+
+//font
+
+$main-font: 'Ubuntu', sans-serif;
+
+
+
+
+
+// position
+@mixin flex-center-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@mixin flex-between-center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

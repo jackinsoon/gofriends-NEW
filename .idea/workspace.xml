@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e921db8f-22c2-4674-859c-4d720cb3e8f8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/1111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/Bezymyannyj-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/Hungry_Season_case-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/TjFg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/android-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/android.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/android.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/arrow-green-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/arrow-green-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/arrow-scope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/beauty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/bez.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/bg-case-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/bg-java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/bg-test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/business.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/car-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/car.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/case-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/contact-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/crypto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/cv-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/cv-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/cv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/deli.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/delivery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/dev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/download-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/esti.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/film.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/filming.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/flag-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/flame.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/fullpage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/game.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/history-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon-it.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon-mac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon-mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon-mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/icon-ux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/img-case-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/img-case.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/img-mob.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ios-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ios.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/java-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/java-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/javascript.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/jewe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/jewellery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/job.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/js-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/logo-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/mac-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/mac-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/mac-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/mac-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/main-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/media-test-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/media.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/meet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/menegment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/monastic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/node-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/node.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/online-car.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/open.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/openbit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/page-icon-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/page-icon-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/page-icon-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/page-icon-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/phone-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/photo_2018-03-30_11-04-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/photo_2018-05-18_16-47-33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/php-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/pro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/puzz.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/puzz2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/python-main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/qa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/server.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/specific.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/sport.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/startcontrol-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/supp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/testtest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/time-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/time-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/time-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/tinyatlets.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/tinywifi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/travel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/trust.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ux-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ux-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ux-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ux-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/ux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/veronica.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/vert-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/web-site.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/wer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/wi-fi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/img/world-travel-nation-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/android.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/case-main.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/case.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/cooperation.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/cv.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/dialog.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/hot-job.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/ind-inside.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/ios.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/java.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/javascript.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/media.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/mob.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/node.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/php.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/python.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/team.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/ux.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/web.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/pages/who-can-be.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/android-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/case-main-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/contact-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/footer.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/hot-card.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/ios-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/java-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/javascript-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/node-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/php-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/python-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/scope-page.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/pug/templates/team-value.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/about/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/android/_android.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/case-main/_case-main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/case/_case.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/cooperation/_cooperation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/cv/_cv.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/dialog/_dialog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/header/_header-max-1024.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/header/_header-max-1200.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/header/_header-max-576.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/header/_header-max-768.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/header/_header-max-992.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/hot-job/_hot-job.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/ind-inside/_ind-inside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/index/_index-max-1024.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/index/_index-max-576.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/index/_index-max-768.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/ios/_ios.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/java/_java.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/javascript/_javascript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/media/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/mob/_mob.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/node/_node.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/php/_php.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/python/_python.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/team/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/ux/_ux.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/web/_web.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/sass/who-can-be/_who-can-be.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.idea/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/libs.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/libs.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/libs.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/libs.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fonts/empty.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/pug/pages/about.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pug/default.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/pug/default.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pug/pages/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/pug/pages/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/pug/templates/header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/pug/templates/header.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/_button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/_map.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/_media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/_smartgrid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/_variables-functions-and-mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_variables-functions-and-mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/header/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/index/_index-max-1200.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/index/_index-max-1200.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/index/_index-max-767.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/index/_index-max-992.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/index/_index-max-992.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/index/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/index/_index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/libs.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/libs.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="case.pug" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/pug/pages/case.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_case.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/case/_case.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.main-lg-text</find>
+      <find>.nav-bar</find>
+      <find>nav-bar</find>
+      <find>.scope-block</find>
+      <find>page-w</find>
+      <find>owl-dots.disabled</find>
+      <find>owl-dots</find>
+      <find>ser</find>
+      <find>main-lg</find>
+      <find>main-l</find>
+      <find>main</find>
+      <find>page</find>
+      <find>work</find>
+      <find>#2f363b</find>
+      <find>web</find>
+      <find>title-norm</find>
+      <find>f</find>
+      <find>#open</find>
+      <find>#op</find>
+      <find>page-</find>
+      <find>owl</find>
+      <find>.owl-carousel .owl-item img</find>
+      <find>.owl-item img</find>
+      <find>h2</find>
+      <find>title</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/pug/templates/case-main-page.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/case-main.pug" />
+        <option value="$PROJECT_DIR$/app/libs/gsap/SplitText.min.js" />
+        <option value="$PROJECT_DIR$/app/libs/gsap/TweenMax.min.js" />
+        <option value="$PROJECT_DIR$/app/libs/tween/TweenMax.min.js" />
+        <option value="$PROJECT_DIR$/app/js/test.json" />
+        <option value="$PROJECT_DIR$/app/ajax/test.json" />
+        <option value="$PROJECT_DIR$/app/sass/_variables-functions-and-mixins.scss" />
+        <option value="$PROJECT_DIR$/app/pug/templates/contact-page.pug" />
+        <option value="$PROJECT_DIR$/app/sass/case-main/_case-main.scss" />
+        <option value="$PROJECT_DIR$/app/sass/team/_team.scss" />
+        <option value="$PROJECT_DIR$/app/sass/dialog/_dialog.scss" />
+        <option value="$PROJECT_DIR$/app/sass/header/_heaser.scss" />
+        <option value="$PROJECT_DIR$/app/sass/mob/_mob.scss" />
+        <option value="$PROJECT_DIR$/app/sass/main.scss" />
+        <option value="$PROJECT_DIR$/app/sass/java/_java.scss" />
+        <option value="$PROJECT_DIR$/app/pug/pages/python.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/java.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/ios.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/android.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/javascript.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/php.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/node.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/ind-inside.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/cooperation.pug" />
+        <option value="$PROJECT_DIR$/app/sass/cooperation/_cooperation.scss" />
+        <option value="$PROJECT_DIR$/app/libs/SplitText/SplitText.min.js" />
+        <option value="$PROJECT_DIR$/app/libs/TweenMax/tm.min.js" />
+        <option value="$PROJECT_DIR$/app/sass/header/_header.scss" />
+        <option value="$PROJECT_DIR$/app/pug/default.pug" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/ajax/map.html" />
+        <option value="$PROJECT_DIR$/app/js/main.js" />
+        <option value="$PROJECT_DIR$/app/pug/templates/header.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/about.pug" />
+        <option value="$PROJECT_DIR$/app/sass/about/_about.scss" />
+        <option value="$PROJECT_DIR$/app/pug/pages/web.pug" />
+        <option value="$PROJECT_DIR$/app/pug/pages/index.pug" />
+        <option value="$PROJECT_DIR$/app/sass/index/_index.scss" />
+        <option value="$PROJECT_DIR$/app/sass/header/_header-max-1200.scss" />
+        <option value="$PROJECT_DIR$/app/sass/index/_index-max-1200.scss" />
+        <option value="$PROJECT_DIR$/app/sass/header/_header-max-992.scss" />
+        <option value="$PROJECT_DIR$/app/sass/index/_index-max-992.scss" />
+        <option value="$PROJECT_DIR$/app/pug/templates/footer.pug" />
+        <option value="$PROJECT_DIR$/app/sass/index/_index-max-768.scss" />
+        <option value="$PROJECT_DIR$/app/sass/_media.scss" />
+        <option value="$PROJECT_DIR$/app/sass/index/_index-max-576.scss" />
+        <option value="$PROJECT_DIR$/app/pug/pages/mob.pug" />
+        <option value="$PROJECT_DIR$/app/sass/web/_web.scss" />
+        <option value="$PROJECT_DIR$/app/sass/case/_case.scss" />
+        <option value="$PROJECT_DIR$/app/pug/pages/case.pug" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/libs/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/animateCSS/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/bootstrap-4.1.0/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-common-types/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free-brands/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free-regular/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free-solid/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/fontawesome/advanced-options/use-with-node-js/fontawesome-free-webfonts/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/fontawesome/advanced-options/use-with-node-js/fontawesome/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/owl.carousel/package.json" />
+      <path value="$PROJECT_DIR$/app/libs/particlesjs/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="466" />
+    <option name="y" value="230" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ajax" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="pug" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pug-scss-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pug-scss-start" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\teamplate\pug-scss-start\app\sass\index" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\sass\header" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\libs\tween" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\img" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Work\teamplate\pug-scss-start\app\img" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\libs\wow" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\libs\TweenMax" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\libs\SplitText" />
+      <recent name="C:\Work\teamplate\pug-scss-start\app\ajax" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e921db8f-22c2-4674-859c-4d720cb3e8f8" name="Default" comment="" />
+      <created>1527927411754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527927411754</updated>
+      <workItem from="1527927412903" duration="1575000" />
+      <workItem from="1527929002650" duration="27678000" />
+      <workItem from="1527965123731" duration="887000" />
+      <workItem from="1528102246945" duration="580000" />
+      <workItem from="1528104661294" duration="15278000" />
+      <workItem from="1528140154909" duration="10670000" />
+      <workItem from="1528182681068" duration="24548000" />
+      <workItem from="1528216102554" duration="678000" />
+      <workItem from="1528269712824" duration="20849000" />
+      <workItem from="1528305460852" duration="1960000" />
+      <workItem from="1528354777735" duration="26556000" />
+      <workItem from="1528388389586" duration="5302000" />
+      <workItem from="1528442203369" duration="22551000" />
+      <workItem from="1528701085361" duration="4180000" />
+      <workItem from="1528720986245" duration="7883000" />
+      <workItem from="1528742834956" duration="2477000" />
+      <workItem from="1528787381933" duration="20457000" />
+      <workItem from="1528822820055" duration="1314000" />
+      <workItem from="1528872993392" duration="8219000" />
+      <workItem from="1528885226128" duration="15678000" />
+      <workItem from="1528908134361" duration="627000" />
+      <workItem from="1528918597733" duration="6988000" />
+      <workItem from="1528963231565" duration="26485000" />
+      <workItem from="1529003090387" duration="9745000" />
+      <workItem from="1529046809611" duration="18933000" />
+      <workItem from="1529070913992" duration="5779000" />
+      <workItem from="1529097914066" duration="5658000" />
+      <workItem from="1529147240886" duration="19355000" />
+      <workItem from="1529228419100" duration="14221000" />
+      <workItem from="1529262248843" duration="4336000" />
+      <workItem from="1529274284751" duration="199000" />
+      <workItem from="1529306222122" duration="15877000" />
+      <workItem from="1529329741183" duration="4944000" />
+      <workItem from="1529339685041" duration="6364000" />
+      <workItem from="1529392054265" duration="21762000" />
+      <workItem from="1529428485539" duration="22326000" />
+      <workItem from="1529517655261" duration="1189000" />
+      <workItem from="1529566200938" duration="13162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="417270000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20026438" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32909605" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20903955" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32627118" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20026438" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32627118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Gulp" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.20903955" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32909605" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32909605" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/sass/who-can-be/_who-can-be.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/ux/_ux.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/hot-job/_hot-job.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/cv/_cv.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="128" column="11" selection-start-line="128" selection-start-column="11" selection-end-line="128" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_variables-functions-and-mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/templates/contact-page.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/team/_team.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/dialog/_dialog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="186" column="20" selection-start-line="186" selection-start-column="20" selection-end-line="186" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/case-main/_case-main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/case-main.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="44" column="42" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2220">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/python.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/ios.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/java.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/android.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/javascript.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/php.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/node.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/java/_java.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/cooperation/_cooperation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/ind-inside.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="131" column="51" selection-start-line="131" selection-start-column="51" selection-end-line="131" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/cooperation.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/libs/SplitText/SplitText.min.js" />
+    <entry file="file://$PROJECT_DIR$/app/libs/TweenMax/TweenMax.min.js" />
+    <entry file="file://$PROJECT_DIR$/app/libs/TweenMax/TimelineLite.min.js" />
+    <entry file="file://$PROJECT_DIR$/app/sass/header/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="76" column="26" lean-forward="true" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="57" column="32" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/default.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1071" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ajax/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/about/_about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="158" column="12" selection-start-line="158" selection-start-column="12" selection-end-line="158" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/about.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="227" column="48" selection-start-line="227" selection-start-column="48" selection-end-line="227" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/header/_header-max-1200.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/index/_index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2505">
+          <caret line="84" column="14" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/header/_header-max-992.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/index/_index-max-992.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1564">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/index/_index-max-1024.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_media.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/web/_web.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="75" column="10" selection-start-line="75" selection-start-column="10" selection-end-line="75" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/mob/_mob.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="15" selection-start-line="149" selection-start-column="15" selection-end-line="149" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/mob.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/index/_index-max-576.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/index/_index-max-768.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/index/_index-max-1200.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/templates/footer.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/templates/header.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/web.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/case/_case.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/pug/pages/case.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="104" column="47" selection-start-line="104" selection-start-column="47" selection-end-line="104" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

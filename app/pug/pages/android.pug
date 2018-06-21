@@ -1,0 +1,43 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .java-main-block
+                img.java-logo(src='img/android-main.png', alt='')
+                p.java-title Android is the most-used operating system in the world, not
+                    br
+                    |  only for smartphones, but for any device in the world that
+                    br
+                    |  has user-installable applications and can access the internet, and it
+                    br
+                    |  is still growing in popularity.
+
+
+    section.page-wrapp
+        .container-fluid
+            h2.web-title Android Development
+            .main-content
+                .pade-column
+                    .page-column-left
+                        p.page-column-text
+                            |  Android is the most-used operating system in the world, not only for smartphones, but for any device in the world that has user-installable applications and can access the internet, and it is
+                            span  still
+                            |  growing in popularity. As of 2017, there were over two billion active Android devices in use globally. Android smartphones are known for being accessible to the masses on the low end and embracing experimental, new technology on the high end. With the largest market share of any mobile operating system, it is now essential for major companies to have their own applications in the Android market.
+                    .page-column-right
+                        p.page-column-text
+                            | Our developers are experts in Objective-C, Swift, and the development of iOS applications. Whether you have an existing application based on another mobile operating system and need a port or if you would like to create a native app for either iPhone, iPad, Apple Watch, or all of the above, we have you covered.
+
+    section.page-wrapp.grey-bg
+        .container
+            h2.web-title  Why Android
+            .row
+                include ../templates/android-page.pug
+                    each item in android_page
+                        .col-md-6
+                            .j-block
+                                p.j-title-text=item.j_title
+                                p.j-subtitle-text=item.j_subtitle
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

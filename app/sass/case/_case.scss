@@ -1,0 +1,206 @@
+.page{
+  &-tech{
+    width: auto;
+    height: auto;
+    &-name{
+      color: $grafit-color;
+      font-weight: 100;
+      font-size: 15px;
+      &:hover{
+        color: $main-color;
+      }
+    }
+  }
+  &-item{
+    margin: 40px 0 40px 40px;
+  }
+  &-advantages{
+    &-title{
+      font-size: 30px;
+      text-transform: uppercase;
+      font-weight: 100;
+      text-align: center;
+      margin: 30px 0;
+    }
+    &-text{
+      font-size: 25px;
+      font-weight: 400;
+      margin-bottom: 0;
+      color: $main-color;
+    }
+    &-subtext{
+      font-weight: 100;
+      font-size: 18px;
+      margin-bottom: 0;
+    }
+  }
+  &-figure{
+    border: 20px double $main-color;
+    display: block;
+    border-radius: 50px;
+    position: absolute;
+    left: 0;
+    top: 60px;
+  }
+  &-decision{
+    text-align: center;
+    color: $main-color;
+    font-weight: 100;
+    font-size: 45px;
+  }
+  &-gray{
+    background:$grey-color;
+    padding: 30px 0;
+  }
+  &-white{
+    padding: 30px 0;
+  }
+  &-shadow{
+    padding: 15px;
+    background: $white-color;
+    box-shadow: 0 0 15px 0 rgba(0,0,0,0.3);
+    width: 100%;
+  }
+  &-img{
+    text-align: center;
+  }
+  &-name{
+    font-size: 75px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 0;
+  }
+  &-subname{
+    text-align: center;
+    font-weight: 100;
+    margin-bottom: 50px;
+  }
+  &-case{
+    &-wrapp{
+      @include flex-between-center;
+      margin-bottom: 100px;
+    }
+    &-icon{
+      font-weight: 100;
+      font-size: 10px;
+      text-align: center;
+      display: block;
+      margin: 5px 0;
+      color: $grafit-color;
+      &:hover{
+        color:$main-color;
+      }
+      &-img{
+        width: auto;
+        display: block;
+        margin: 0 auto;
+      }
+    }
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    &-title{
+      color: $white-color;
+      font-size: 75px;
+      font-weight: 400;
+      text-align: center;
+      margin-bottom: 0;
+    }
+    &-subtitle{
+      color: $white-color;
+      font-size: 18px;
+      font-weight: 100;
+      text-align: center;
+      line-height: 2;
+    }
+    &-link{
+      color: $white-color;
+      text-transform: uppercase;
+      &:hover{
+        color:$main-color
+      }
+    }
+    &-line{
+      border: 3px solid $main-color;
+      width: 50%;
+      display: block;
+      margin: 0 auto;
+      border-radius: 15px;
+      margin-bottom: 50px;
+    }
+  }
+
+  &-right-block{
+    padding:30px 60px;
+    box-shadow: 0 0 20px rgba(150, 189, 189, 0.48);
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+  }
+  &-left{
+    &-block{
+      width: 50%;
+    }
+    &-subtitle{
+      font-size: 18px;
+      font-weight: 100;
+      line-height: 1.5;
+      margin: 0;
+    }
+  }
+  &-case-bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background: linear-gradient(45deg, rgba(45, 49, 56, 0.93), rgba(76, 92, 106, 0.86));
+    width: 100%;
+    @include flex-center-center;
+  }
+  &-object{
+    margin-bottom: 20px;
+    &-title{
+      margin: 0 75px 10px 0;
+      font-weight: 100;
+    }
+    &-name{
+      margin-bottom: 10px;
+
+    }
+  }
+}
+.page-object-icon .owl-nav{
+  display: none;
+}
+.owl-carousel.brand-slide .page-icon-tech .page-tech{
+  width: auto;
+  display: block;
+  margin: 0 auto;
+}
+.owl-carousel.brand-slide div.owl-dots{
+  display: initial;
+}
+.page{
+  &-title{
+    color: $grafit-color;
+    font-size: 45px;
+    font-weight: 600;
+    &-wrapp{
+      position: relative;
+    }
+    &-grey{
+      color: #40545a;
+      font-size: 80px;
+      font-weight: 700;
+      left: 50%;
+      line-height: 1;
+      opacity: 0.07;
+      position: absolute;
+      text-transform: uppercase;
+      top: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+}

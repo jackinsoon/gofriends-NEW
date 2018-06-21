@@ -1,0 +1,96 @@
+.value-pro{
+  box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);
+  border: none;
+  padding: 10px;
+  font-size: 18px;
+  width:245px;
+  cursor: pointer;
+  &-opt{
+    font-size: 18px;
+  }
+}
+.hot-card{
+  padding: 18px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  box-shadow: 0 6px 16px 0 rgba(0,0,0,0.26);
+  &:before{
+    content: '';
+    position: relative;
+    float: right;
+    background: url(../img/flame.png) no-repeat;
+    display: block;
+    width: 40px;
+    height: 64px;
+  }
+  &-name{
+    font-size: 26px;
+    font-weight: 400;
+    margin: 0 0 5px 0;
+    color: $grafit-color;
+  }
+  &-subname{
+    font-size: 18px;
+    font-weight: bold;
+    color: $main-color;
+    padding-bottom: 10px;
+    margin: 0;
+  }
+  &-text{
+    border-top: 1px solid $main-color;
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 2;
+    color: #264f6e;
+    padding-top: 15px;
+    margin: 0;
+  }
+  &-link{
+    cursor: pointer;
+  }
+}
+
+.who_can_i_be{
+  padding: 100px 0 0 0;
+}
+
+.job{
+  &-title-name {
+    padding: 12px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: $main-color;
+    cursor: pointer;
+    color: #fff;
+  }
+  &-content {
+    display: none;
+  }
+  &-pro{
+    padding: 15px 20px;
+    background: #fff;
+    border-left: 1px solid $main-color;
+    border-right: 1px solid $main-color;
+    border-bottom: 1px solid $main-color;
+    color: $grafit-color;
+    &:hover{
+      color: $white-color;
+      background: #00cca3;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

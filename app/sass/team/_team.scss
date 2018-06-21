@@ -1,0 +1,54 @@
+
+  .team-wrapp {
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-around;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+.team{
+  &-wrapp{
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+  }
+  &-card{
+    width: 230px;
+    margin: 20px 0;
+  }
+  &-img{
+    object-fit: cover;
+    width: 230px;
+    height: 230px;
+    margin-bottom: 10px;
+  }
+  &-name{
+    font-size: 20px;
+    line-height: 1.38;
+    margin: 15px 0 10px 0;
+    color: $main-color;
+  }
+  &-description{
+    font-size: 15px;
+    font-weight: 500;
+    color: #818181;
+    padding-bottom: 5px;
+    margin: 0;
+  }
+  &-line{
+    margin: 5px 0;
+    border: 1px solid $main-color;
+  }
+  &-text{
+    border-top: 1px solid #02a383;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 2.06;
+    color: $grafit-color;
+    margin: 10px 0 0 0;
+  }
+}
+

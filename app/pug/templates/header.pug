@@ -1,0 +1,76 @@
+header.header
+    .container
+        nav.navbar.navbar-expand-lg
+            a.navbar-brand(href='index.html')
+                img(src="img/logo.png" alt="" class="w-100")
+            a.navbar-toggler(data-toggle='collapse', data-target='#navbarSupportedContent', aria-controls='navbarSupportedContent', aria-expanded='false', aria-label='Toggle navigation')
+                .menuOne
+                    span
+                    span
+                    span
+                    span
+                    span
+                    span
+                    span
+                    span
+                    span
+
+            #navbarSupportedContent.collapse.navbar-collapse
+                -
+                    var navs = [
+                        {
+                        name: 'Services',
+                        children: [
+                        {name: 'Web Development', link: 'web.html'},
+                        {name: 'Mobile Development', link: 'mob.html'},
+                        {name: 'UX / UI', link: 'ux.html'}
+                        ]
+                        },
+                        {name: 'Cooperation', link: 'cooperation.html'},
+                        {name: 'Case Studies', link: 'case-main.html'},
+                        {name: 'Industries', link: 'ind-inside.html'},
+                        {
+                        name: 'Technologies',
+                        children: [
+                        {name: 'Java', link: 'java.html'},
+                        {name: 'iOS', link: 'ios.html'},
+                        {name: 'Android', link: 'android.html'},
+                        {name: 'JS', link: 'javascript.html'},
+                        {name: 'PHP', link: 'php.html'},
+                        {name: 'Node JS', link: 'node.html'},
+                        {name: 'Python', link: 'python.html'},
+
+                        ]
+                        },
+                        {
+                        name: 'Company',
+                        children: [
+                        {name: 'About', link: 'about.html'},
+                        {name: 'Team', link: 'team.html'},
+                        {name: 'Career', link: 'dialog.html'},
+                        {name: 'Open jobs', link: 'who-can-be.html'},
+                        {name: 'Send CV', link: 'cv.html'}
+                        ]
+                        },
+                        {
+                        name: 'English',
+                        children: [
+                        {name: 'Russian', link: '/'},
+                        {name: 'Ukraine', link: '/'}
+                        ]
+                        }
+                    ]
+                ul.navbar-nav.menu-header
+                    each nav in navs
+                        if nav.children
+                            li.nav-item
+                                a.header-link.has-children(href=nav.link)= nav.name
+                                span.fa.fa-caret-down
+                                ul.children.animated.list-unstyled.m-0
+                                    each child in nav.children
+                                        li.child
+                                            a(href=child.link)= child.name
+
+                        else
+                            li.nav-item
+                                a.header-link(href=nav.link)= nav.name

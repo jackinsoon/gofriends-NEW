@@ -1,0 +1,36 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .java-main-block
+                img.java-logo(src='img/ios-main.png', alt='')
+                p.java-title
+                    | Our developers are experts in Objective-C, Swift,
+                    br
+                    | and the development of iOS applications.
+
+    section.page-wrapp
+        .container-fluid
+            h2.web-title iOS Development
+            .main-content
+                .pade-column
+                    .page-column-left
+                        p.page-column-text
+                            | iOS and the devices associated with it changed the way that we think about smartphones and how we interact with the digital world. Before Apple came out with the iPhone in 2007, most people were used to using a stylus rather than their fingers, buttons instead of a touchscreen, and using separate devices for entertainment and business communication. Despite having a smaller market share overall than Android phones, the iPhone is still the most popular smartphone as of 2017, and the iOS line of devices are still considered by many as the premium mobile devices available today.
+                    .page-column-right
+                        p.page-column-text
+                            | Our developers are experts in Objective-C, Swift, and the development of iOS applications. Whether you have an existing application based on another mobile operating system and need a port or if you would like to create a native app for either iPhone, iPad, Apple Watch, or all of the above, we have you covered.
+    section.page-wrapp.grey-bg
+        .container
+            h2.web-title Why iOS
+            .row
+                include ../templates/ios-page.pug
+                    each item in ios_page
+                        .col-md-6
+                            .j-block
+                                p.j-title-text=item.j_title
+                                p.j-subtitle-text=item.j_subtitle
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

@@ -1,0 +1,41 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .main-wrapp-page
+                .main-left-text
+                    p.main-lg-text
+                        | our
+                        br
+                        |  team
+                    p.web-subtitle
+                        span.green-subtext we
+                        |  grow tech solutions for
+                        br
+                        | tomorrow’s
+                        span.green-subtext  biggest
+                        |  companies
+                .main-right-text
+                    p.main-lg-number
+                        | 21
+                    p.main-md-number
+                        | people in
+                        br
+                        | the team
+    section.page-wrapp
+        .container-fluid
+            h2.web-title our team
+            .main-content
+                .team-wrapp
+                    include ../templates/team-value.pug
+                        each item in team_value
+                            .team-card
+                                img.team-img(src=item.team_img, alt='')
+                                p.team-name=item.team_name
+                                p.team-description=item.team_description
+                                p.team-text=item.team_text
+
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

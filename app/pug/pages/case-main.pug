@@ -1,0 +1,221 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .main-wrapp-page
+                .main-left-text
+                    p.industry-big-text
+                        | Case Studies
+                    p.industry-big-subtext
+                        | In the modern age, IT and media are inseparable.
+                        br
+                        | Journalists are now able to have live video feeds
+                        br
+                        | and on-location with a simple smartphone app.
+
+    section.who_can_i_be
+        h2.web-title our scope of activity
+        #wrapper
+            .container-fluid
+                .row
+                    .col-md-12.text-center
+                        .button-group.filter-button-group.mb-4
+                            button.case-btn(data-filter='*') All
+                            button.case-btn(data-filter='.m') Android App
+                            button.case-btn(data-filter='.t') CryptoCurrency
+                            button.case-btn(data-filter='.a') eCommerce
+                            button.case-btn(data-filter='.f') ERP
+                            button.case-btn(data-filter='.k') iOS App
+                            button.case-btn(data-filter='.r') IoT
+                            button.case-btn(data-filter='.q') Online Platform
+                            button.case-btn(data-filter='.l') Social Networks
+                            button.case-btn(data-filter='.s') Web Application
+                        .grid
+                            .grid-sizer
+                            .grid-item.l
+                                .case-all
+                                    img.img-case(src='img/img-case-2.png', alt='')
+                                    .case-pop
+                                        h3.card-title GoFriends Marketplace
+                                        .case-subtitle Excellent software solutions.
+                                    a.case-card-link(href='#')
+
+                            .grid-item.l.s
+                                .case-all
+                                    img.img-case(src='img/Hungry_Season_case-1.png', alt='')
+                                    .case-pop
+                                        h3.card-title Hungry Season
+                                        .case-subtitle Social network for athletics
+                                    a.case-card-link(href='#')
+
+                            .grid-item.f.s
+                                .case-all
+                                    img.img-case(src='img/monastic.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title Monastic Group
+                                        .case-subtitle Online ERP platform for
+                                            br
+                                            | MLM marketing businesses
+                                    a.case-card-link(href='#')
+
+                            .grid-item.r.q.s
+                                .case-all
+                                    img.img-case(src='img/tinyatlets.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title Athletic Events
+                                        .case-subtitle Online platform designed to improve
+                                            br
+                                            |  the quality of sporting events.
+                                    a.case-card-link(href='#')
+
+                            .grid-item.t.q.s
+                                .case-all
+                                    img.img-case(src='img/openbit.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title OpenBit Platform
+                                        .case-subtitle The marketing solutions set for promotion
+                                            br
+                                            |  and popularization cryptocurrency FRSCoin .
+                                    a.case-card-link(href='#')
+
+                            .grid-item.m.k.s
+                                .case-all
+                                    img.img-case(src='img/startcontrol-1.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title Start Control
+                                        .case-subtitle
+                                            | CRM platform for managers
+                                            br
+                                            |  to control remote staff
+                                        a.case-card-link(href='#')
+
+                            .grid-item.a.q.s
+                                .case-all
+                                    img.img-case(src='img/veronica.png', alt='')
+                                    .case-pop
+                                        h3.card-title Вероника+
+                                        .case-subtitle
+                                            | Интернет магазин
+                                        a.case-card-link(href='#')
+
+                            .grid-item.q.s
+                                .case-all
+                                    img.img-case(src='img/car.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title Аренда-авто
+                                        .case-subtitle
+                                            | Онлайн-сервис проката автомобилей
+                                        a.case-card-link(href='#')
+
+                            .grid-item.s
+                                .case-all
+                                    img.img-case(src='img/film.png', alt='')
+                                    .case-pop
+                                        h3.card-title Rosslane Film
+                                        .case-subtitle
+                                            | Они делают свое дело и их нельзя отличить
+                                            br
+                                            |  от професионалов, их работы популярные по всему миру
+                                        a.case-card-link(href='#')
+
+                            .grid-item.a
+                                .case-all
+                                    img.img-case(src='img/Bezymyannyj-1.png', alt='')
+                                    .case-pop
+                                        h3.card-title Дизайн ресторана
+                                        .case-subtitle
+                                            | Пример дизайна ресторана
+                                        a.case-card-link(href='#')
+
+                            .grid-item.q.l.s
+                                .case-all
+                                    img.img-case(src='img/tinywifi.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title GoFriends Wi-Fi
+                                        .case-subtitle
+                                            |Wi-Fi сервис
+                                        a.case-card-link(href='#')
+
+                            .grid-item.q.l.s
+                                .case-all
+                                    img.img-case(src='img/world-travel-nation-2.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title Всемирная Туристическая Нация
+                                        .case-subtitle
+                                            | Уникальная онлайн-платформа
+                                            br
+                                            |  глобальной сети B2B и онлайн-рынок
+                                            br
+                                            |  для профессионалов в области туризма.
+                                        a.case-card-link(href='#')
+
+                            .grid-item.a.q
+                                .case-all
+                                    img.img-case(src='img/jewe.png', alt='')
+                                    .case-pop
+                                        h3.card-title Lion’s Heart
+                                        .case-subtitle
+                                            | Ювелирные украшения
+                                        a.case-card-link(href='#')
+
+                            .grid-item.m.a.q
+                                .case-all
+                                    img.img-case(src='img/TjFg.png', alt='')
+                                    .case-pop
+                                        h3.card-title Golden Eggs
+                                        .case-subtitle
+                                            | Приложение с реальным выводом денег
+                                        a.case-card-link(href='#')
+
+
+                            .grid-item.a.q.s
+                                .case-all
+                                    img.img-case(src='img/bez.png', alt='')
+                                    .case-pop
+                                        h3.card-title Happy Rony
+                                        .case-subtitle
+                                            | Международный детский садик
+                                        a.case-card-link(href='#')
+
+                            .grid-item.q.l
+                                .case-all
+                                    img.img-case(src='img/wer.png', alt='')
+                                    .case-pop
+                                        h3.card-title Monastic SPA
+                                        .case-subtitle
+                                            | Оздоровительный комплекс - "Monastic SPA"
+                                        a.case-card-link(href='#')
+
+                            .grid-item.q.s
+                                .case-all
+                                    img.img-case(src='img/1111.png', alt='')
+                                    .case-pop
+                                        h3.card-title Lucia&Liza
+                                        .case-subtitle
+                                            | Интернет-магазин драгоценностей
+                                            br
+                                            |  высшего класса - " Luciza&Liza "
+                                        a.case-card-link(href='#')
+
+                            .grid-item.t.q.l.s
+                                .case-all
+                                    img.img-case(src='img/photo_2018-03-30_11-04-05.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title Gofriends Биржа
+                                        .case-subtitle
+                                            | Биржа крипто-валют
+                                        a.case-card-link(href='#')
+
+                            .grid-item.m.k.s
+                                .case-all
+                                    img.img-case(src='img/photo_2018-05-18_16-47-33.jpg', alt='')
+                                    .case-pop
+                                        h3.card-title Zevohealth
+                                        .case-subtitle
+                                            | Фитнес-трекер
+                                        a.case-card-link(href='#')
+
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

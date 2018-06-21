@@ -1,0 +1,44 @@
+@import "index/index";
+@import "who-can-be/who-can-be";
+@import "java/java";
+@import "ios/ios";
+@import "javascript/javascript";
+@import "android/android";
+@import "php/php";
+@import "node/node";
+@import "cv/cv";
+@import "hot-job/hot-job";
+@import "team/team";
+@import "dialog/dialog";
+@import "media/media";
+@import "ux/ux";
+@import "case/case";
+@import "web/web";
+@import "mob/mob";
+@import "about/about";
+@import "cooperation/cooperation";
+@import "ind-inside/ind-inside";
+@import "case-main/case-main";
+@import "header/header";
+
+
+@media (max-width: 1200px) {
+    @import "index/index-max-1200";
+
+}
+@media (max-width: 1024px) {
+    @import "index/index-max-1024";
+
+}
+@media (max-width: 992px) {
+    @import "index/index-max-992";
+
+}
+
+@media (max-width: 768px) {
+    @import "index/index-max-768";
+}
+
+@media (max-width: 576px) {
+    @import "index/index-max-576";
+}

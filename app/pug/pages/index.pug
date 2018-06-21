@@ -1,0 +1,198 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .main-wrapp-page
+                .main-left-text.wow.slideInLeft
+                    p.main-lg-text
+                        span.green-text we
+                        |  are
+                        span.green-text  changing
+                        br
+                        |                    the world for
+                        br
+                        |                    the better
+                .main-right-text
+                    .main-title-item
+                        p.main-lg-number.count 21
+                        p.main-md-number
+                            | people in
+                            br
+                            | team
+                    .main-title-item
+                        p.main-lg-number.pluse.count 150
+                        p.main-md-number
+                            | projects
+                            br
+                            | delivered
+                    .main-title-item
+                        p.main-lg-number.pluse.count 5
+                        p.main-md-number
+                            | years of
+                            br
+                            | experience
+            //.main-bottom-text
+            //    p Development
+            //    p Design0
+            //    p Markitingfb
+    section.page-wrapp
+        .container-fluid
+            h2.title-norm.wow.fadeInUp(data-wow-duration='1s') our service
+            .service-icons
+                .service-block-icon.wow.fadeInUp( data-wow-delay='0.3s' data-wow-duration='1s')
+                    img.service-icon-img(src='../img/icon-it.png', alt='')
+                    p.block-icon-title IT audit
+                .service-block-icon.wow.fadeInUp( data-wow-delay='0.6s' data-wow-duration='1s')
+                    img.service-icon-img(src='../img/icon-ux.png', alt='')
+                    p.block-icon-title UI/UX Design
+                .service-block-icon.wow.fadeInUp(data-wow-delay='0.9s' data-wow-duration='1s')
+                    img.service-icon-img(src='../img/icon-mob.png', alt='')
+                    p.block-icon-title Mobile development
+                .service-block-icon.wow.fadeInUp( data-wow-delay='1.2s' data-wow-duration='1s')
+                    img.service-icon-img(src='../img/icon-mac.png', alt='')
+                    p.block-icon-title Web development
+                .service-block-icon.wow.fadeInUp( data-wow-delay='1.5s' data-wow-duration='1s')
+                    img.service-icon-img(src='../img/icon-mark.png', alt='')
+                    p.block-icon-title Marketing
+
+    section.page-wrapp-grey
+        .container-fluid
+            h2.title-norm.wow.fadeInUp(data-wow-duration='1s') our scope of activity
+            .scope-page
+                .scope-block.wow.fadeInUp(data-wow-delay='-0.2s' data-wow-duration='1s')
+                    img.scope-img(src='img/business.jpg', alt='')
+                    .scope-active
+                        .scope-title Business
+                        .scope-text There is no sphere of life where innovation is more important than education.
+                        a(href='')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+                .scope-block.wow.fadeInUp(data-wow-delay='-0.2s' data-wow-duration='1s')
+                    img.scope-img(src='img/sport.jpg', alt='')
+                    .scope-active
+                        .scope-title Sport
+                        .scope-text Today comprehensive retail solutions are inevitable for memorable online shopping experience.
+                        a(href='')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+                .scope-block.wow.fadeInUp(data-wow-delay='0.2s' data-wow-duration='1s')
+                    img.scope-img(src='img/delivery.jpg', alt='')
+                    .scope-active
+                        .scope-title Delivering
+                        .scope-text In the modern global economy, an efficient logistics solution is more important than ever before.
+                        a(href='')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+                .scope-block.wow.fadeInUp(data-wow-delay='0.4s' data-wow-duration='1s')
+                    img.scope-img(src='img/beauty.jpg', alt='')
+                    .scope-active
+                        .scope-title Beauty
+                        .scope-text In the modern age, IT and media are inseparable. Our world is more connected than ever.
+                        a(href='media.html')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+                .scope-block.wow.fadeInUp(data-wow-delay='0.6s' data-wow-duration='1s')
+                    img.scope-img(src='img/crypto.jpg', alt='')
+                    .scope-active
+                        .scope-title Crypto
+                        .scope-text We want to make your business more efficient and flexable, helping you to track your data and make use of it.
+                        a(href='')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+                .scope-block.wow.fadeInUp(data-wow-delay='0.8s' data-wow-duration='1s')
+                    img.scope-img(src='img/online-car.jpg', alt='')
+                    .scope-active
+                        .scope-title Online car rent service
+                        .scope-text We understand challenges of Telecommunication industry, creating custom solutions for your needs.
+                        a(href='')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+                .scope-block.wow.fadeInUp(data-wow-delay='1s' data-wow-duration='1s')
+                    img.scope-img(src='img/travel.jpg', alt='')
+                    .scope-active
+                        .scope-title Travel
+                        .scope-text Travel industry trends are always changing as technology drives new opportunities.
+                        a(href='')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+                .scope-block.wow.fadeInUp(data-wow-delay='1.2s' data-wow-duration='1s')
+                    img.scope-img(src='img/filming.jpg', alt='')
+                    .scope-active
+                        .scope-title Filming
+                        .scope-text New wearables are taking breakthrough technologies and make them extensions of our bodies everyday.
+                        a(href='')
+                            button.industry-btn
+                                | Show more
+                                span.fas.fa-long-arrow-alt-right
+
+            .industry-link.wow.fadeInUp(data-wow-delay='1.5s' data-wow-duration='0.5s')
+                a(href='ind-inside.html')
+                    button.industry-btn
+                        | all Industries
+
+
+    section.page-wrapp
+        .container-fluid
+            h2.title-norm.wow.fadeInUp(data-wow-duration='1s')  what our clients are saying?
+            section.reviews
+                .container-fluid
+                    .review-page
+                        .review-block
+                            img.review-img.wow.fadeInUp(data-wow-delay='-0.2s' data-wow-duration='1s')(src='img/cv-1.png', alt='')
+                            .wow.fadeInUp(data-wow-delay='0.3s' data-wow-duration='1s')
+                                .review-main-name
+                                    img.review-flag(src='img/flag-1.png', alt='')
+                                    p.review-name Bob Killmeier
+                                p.review-position Sten Consulting, Owner
+                                p.review-decription
+                                    | "This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel.
+                                    | This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel."
+                        .review-block
+                            img.review-img.wow.fadeInUp(data-wow-delay='0s' data-wow-duration='1s')(src='img/cv-1.png', alt='')
+                            .wow.fadeInUp(data-wow-delay='0.5s' data-wow-duration='1s')
+                                .review-main-name
+                                    img.review-flag(src='img/flag-1.png', alt='')
+                                    p.review-name Bob Killmeier
+                                p.review-position Sten Consulting, Owner
+                                p.review-decription
+                                    | "This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel.
+                                    | This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel."
+                        .review-block
+                            img.review-img.wow.fadeInUp(data-wow-delay='0.2s' data-wow-duration='1s')(src='img/cv-1.png', alt='')
+                            .wow.fadeInUp(data-wow-delay='0.7s' data-wow-duration='1s')
+                                .review-main-name
+                                    img.review-flag(src='img/flag-1.png', alt='')
+                                    p.review-name Bob Killmeier
+                                p.review-position Sten Consulting, Owner
+                                p.review-decription
+                                    | "This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel.
+                                    | This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel."
+                        .review-block
+                            img.review-img.wow.fadeInUp(data-wow-delay='0.4s' data-wow-duration='1s')(src='img/cv-1.png', alt='')
+                            .wow.fadeInUp(data-wow-delay='0.9s' data-wow-duration='1s')
+                                .review-main-name
+                                    img.review-flag(src='img/flag-1.png', alt='')
+                                    p.review-name Bob Killmeier
+                                p.review-position Sten Consulting, Owner
+                                p.review-decription
+                                    | "This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel.
+                                    | This is Photoshop's version  of Lorem um.
+                                    | Proin gravida nibh vel gravida nibh vel."
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug

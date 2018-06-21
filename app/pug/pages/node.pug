@@ -1,0 +1,42 @@
+extends ../default.pug
+block pageContent
+    include ../templates/header.pug
+    section.main-page
+        .container
+            canvas.spider
+            .java-main-block
+                img.java-logo(src='img/node-main.png', alt='')
+                p.java-title
+                    | Node.js is an extremely powerful, popular open source, server-side platform.
+                    br
+                    |  It grows in popularity everyday, being used by large companies
+                    br
+                    | such as Ebay, Yahoo, Twitter, and LinkedIn.
+    section.page-wrapp
+        .container-fluid
+            h2.web-title  Node.js
+            .main-content
+                .pade-column
+                    .page-column-left
+                        p.page-column-text
+                            | Open source solutions for business, such as PHP, can cut costs and
+                            span  improve development speed
+                            |  immensely. PHP is open source software and is extensively used for content management systems (CMS’s), database access, eCommerce, wikis, blogs, and forums. PHP has gained a lot of popularity from its effectiveness in terms of cost and flexibility. Three of today’s most popular content management systems, WordPress, Joomla!, and Drupal, are all written in PHP. In fact, over 25% of the top 10 million websites run on WordPress, making PHP an essential language for web development.
+                            |  growing in popularity. As of 2017, there were over two billion active Android devices in use globally. Android smartphones are known for being accessible to the masses on the low end and embracing experimental, new technology on the high end. With the largest market share of any mobile operating system, it is now essential for major companies to have their own applications in the Android market.
+                    .page-column-right
+                        p.page-column-text
+                            | Our developers have extensive experience and knowledge of both PHP and content management systems and are able to both develop new web applications and modify existing apps and CMS’s, while creating a friendly user interface, so that you can make basic updates to your website easily
+                            span  yourself
+                            | .
+    section.page-wrapp.grey-bg
+        .container
+            h2.web-title Why Node.js
+            .row
+                include ../templates/node-page.pug
+                    each item in node_page
+                        .col-md-6
+                            .j-block
+                                p.j-title-text=item.j_title
+                                p.j-subtitle-text=item.j_subtitle
+    include ../templates/contact-page.pug
+    include ../templates/footer.pug
